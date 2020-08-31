@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gV6gcUij4XRLOWSfZtUhAlqiWGuB7tG1EXsCnUFl3bpAnWJFKp3xD3TqCkEyR9pfPVkajFEWck5epOlmOI+9vA==",
+  "dgSpecHash": "zdV0aMIhU2/pjw39vbOWQ0jefDFFh5hdJ/x/OmO7moil0632Mgb668c+0yiQMhyOrYHo2NOz1s2d7XDbx0/xKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Bussiness\\Bussiness.csproj",
+  "projectFilePath": "D:\\Private\\mainMvc\\Bussiness\\Bussiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andropro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\andropro\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

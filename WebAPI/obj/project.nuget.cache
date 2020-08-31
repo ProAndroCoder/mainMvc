@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CxwR937Q+zavfsvBsPqwetFH3bTv6RL+o7Zvfp/ZPz0fJjXxkXekhsGLi4CJak3yv5xMig+aFMSBy3TXqRpQ0g==",
+  "dgSpecHash": "oI2pNGmp2A1pX2FN+C1WR5hacTIxu5f5jNT9+BK64456/OH7d6VDL2eZmJMox5iFJ6zeMp+M66q+KmDJ57l/LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andropro\\source\\repos\\Solution1\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\Private\\mainMvc\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

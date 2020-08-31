@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "40+3GaobE5/NUfCjEhfwQwPL+rC4aMjnLD+vI7c2QLkb0iYC2TuSAnhXP0H//oxQumP2XBzVtllwQ3bj2xSYSg==",
+  "dgSpecHash": "uKYUxxOXrLAIwFlZL+mbPf1+FCorE5e04QK7KX0YIHcH622rsq5uL2RKl9jGj79jx6NmkdXqyQN1sYuKG1Oa5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Private\\mainMvc\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andropro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\andropro\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

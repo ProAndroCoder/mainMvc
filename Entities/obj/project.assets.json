@@ -6222,11 +6222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Private\\mainMvc\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Private\\mainMvc\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\andropro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\obj\\",
+      "outputPath": "D:\\Private\\mainMvc\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andropro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6242,8 +6242,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj"
+            "D:\\Private\\mainMvc\\Core\\Core.csproj": {
+              "projectPath": "D:\\Private\\mainMvc\\Core\\Core.csproj"
             }
           }
         }

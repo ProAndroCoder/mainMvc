@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andropro\\source\\repos\\Solution1\\Bussiness\\Bussiness.csproj": {}
+    "D:\\Private\\mainMvc\\Bussiness\\Bussiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andropro\\source\\repos\\Solution1\\Bussiness\\Bussiness.csproj": {
+    "D:\\Private\\mainMvc\\Bussiness\\Bussiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andropro\\source\\repos\\Solution1\\Bussiness\\Bussiness.csproj",
+        "projectUniqueName": "D:\\Private\\mainMvc\\Bussiness\\Bussiness.csproj",
         "projectName": "Bussiness",
-        "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Bussiness\\Bussiness.csproj",
+        "projectPath": "D:\\Private\\mainMvc\\Bussiness\\Bussiness.csproj",
         "packagesPath": "C:\\Users\\andropro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Bussiness\\obj\\",
+        "outputPath": "D:\\Private\\mainMvc\\Bussiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andropro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\andropro\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj"
+              "D:\\Private\\mainMvc\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Private\\mainMvc\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj"
+              "D:\\Private\\mainMvc\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Private\\mainMvc\\Entities\\Entities.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj": {
+    "D:\\Private\\mainMvc\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Private\\mainMvc\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj",
+        "projectPath": "D:\\Private\\mainMvc\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\andropro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\obj\\",
+        "outputPath": "D:\\Private\\mainMvc\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andropro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\andropro\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj": {
+    "D:\\Private\\mainMvc\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andropro\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Private\\mainMvc\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Private\\mainMvc\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\andropro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\DataAccess\\obj\\",
+        "outputPath": "D:\\Private\\mainMvc\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andropro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,11 +148,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj"
+              "D:\\Private\\mainMvc\\Core\\Core.csproj": {
+                "projectPath": "D:\\Private\\mainMvc\\Core\\Core.csproj"
               },
-              "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj"
+              "D:\\Private\\mainMvc\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Private\\mainMvc\\Entities\\Entities.csproj"
               }
             }
           }
@@ -187,14 +187,14 @@
         }
       }
     },
-    "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj": {
+    "D:\\Private\\mainMvc\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Private\\mainMvc\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Private\\mainMvc\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\andropro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Entities\\obj\\",
+        "outputPath": "D:\\Private\\mainMvc\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andropro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,8 +210,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj"
+              "D:\\Private\\mainMvc\\Core\\Core.csproj": {
+                "projectPath": "D:\\Private\\mainMvc\\Core\\Core.csproj"
               }
             }
           }

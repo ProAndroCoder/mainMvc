@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj": {}
+    "D:\\Private\\mainMvc\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj": {
+    "D:\\Private\\mainMvc\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Private\\mainMvc\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\Core.csproj",
+        "projectPath": "D:\\Private\\mainMvc\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\andropro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andropro\\source\\repos\\Solution1\\Core\\obj\\",
+        "outputPath": "D:\\Private\\mainMvc\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andropro\\AppData\\Roaming\\NuGet\\NuGet.Config",
